@@ -4,6 +4,8 @@
     --btn-text-color:#fff;
     --project-card-bg:#ffffff00;
     --text-color:#222;
+    --nav-text-color:#222;
+    --nav-color: rgba(144, 105, 136, 0.24);
     --form-text-color:#555;
     --footer-text-color:#888;
 }
@@ -14,6 +16,8 @@
     --btn-text-color:#222;
     --project-card-bg:#fff;
     --text-color:#fff;
+    --nav-text-color:#338b88;
+    --nav-color: #222;
     --form-text-color:#fff;
     --footer-text-color:#bbb;
 }
